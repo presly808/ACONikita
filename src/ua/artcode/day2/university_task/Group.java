@@ -1,4 +1,4 @@
-package ua.artcode.day1;
+package ua.artcode.day2.university_task;
 
 /**
  * Created by admin on 26.08.2014.
@@ -17,8 +17,8 @@ public class Group {
 
     public void addStudent(String name, int age){
         Student temp = new Student();
-        temp.name = name;
-        temp.age = age;
+        temp.setName(name);
+        temp.setAge(age);
         students[index] = temp;
         index++;
     }

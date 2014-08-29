@@ -5,6 +5,14 @@
    	http://docs.oracle.com/javase/tutorial/java/concepts/class.html
    	http://docs.oracle.com/javase/tutorial/java/javaOO/index.html
 
+   	access words(private, public, package-default)
+    getters, setters
+    constructors
+    static, non-static
+    overloading(constructors, methods)
+
+    final
+
    	При написании дом. задания использовать Debug
 
 2. Написать основные классы Студент, Предмет,если нужно будет дописывать новые(Группа)
@@ -33,3 +41,6 @@
    		получить средний бал за все предметы
 
    	Группа(продумать самостоятельно)...
+
+
+   	http://codingbat.com/

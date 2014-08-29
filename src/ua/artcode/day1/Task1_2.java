@@ -1,5 +1,8 @@
 package ua.artcode.day1;
 
+import ua.artcode.day2.university_task.Group;
+import ua.artcode.day2.university_task.Student;
+
 import java.util.Scanner;
 
 /**
@@ -8,6 +11,8 @@ import java.util.Scanner;
 public class Task1_2 {
 
     public static void main(String[] args) {
+
+        Student student = new Student();
 
         /*
         * int[] mas = new int[10];
